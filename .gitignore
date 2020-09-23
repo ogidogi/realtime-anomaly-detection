@@ -1,0 +1,7 @@
+/out/
+/spark-warehouse/
+/checkpoint/
+/.idea/
+/target/
+*.iml
+jar/
